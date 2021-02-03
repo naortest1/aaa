@@ -14,7 +14,6 @@ run apk upgrade
 
 ADD . .
 
-run sudo xx		
 
 RUN yarn && yarn run build		
 
