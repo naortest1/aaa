@@ -1,1 +1,2 @@
 const x = () => {};
+console;
