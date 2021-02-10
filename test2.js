@@ -1,4 +1,1 @@
-const x = () => {};
-consolad;
-AbortController;
-Pasha;
+func;
