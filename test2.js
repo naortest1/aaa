@@ -1,2 +1,3 @@
 const x = () => {};
 consolad;
+ad;
