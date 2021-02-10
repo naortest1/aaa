@@ -1,2 +1,2 @@
 const x = () => {};
-consol;
+consolad;
