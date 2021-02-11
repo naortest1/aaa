@@ -3,4 +3,3 @@ const forEylam = () => {
 };
 a;
 a;
-b;
