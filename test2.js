@@ -2,4 +2,4 @@ const forEylam = () => {
   console.log("hello 'Anomaly'");
 };
 
-const eylon;
+const eylon123;
