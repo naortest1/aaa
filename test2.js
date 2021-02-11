@@ -4,7 +4,3 @@ const forEylam = () => {
 a;
 a;
 b;
-adas;
-adsa;
-afnna;
-adsa;
