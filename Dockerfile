@@ -1,4 +1,4 @@
-FROM node:latest
+FROM microsoft/aspnetcore:1.0
 ARG AUTH_TOKEN		
 WORKDIR /node/app		
 
