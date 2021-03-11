@@ -1,5 +1,6 @@
 FROM microsoft/aspnetcore:1.0
 ARG AUTH_TOKEN		
+
 WORKDIR /node/app		
 
 RUN npm config set @argonsecurity:registry=https://npm.pkg.github.com/		
